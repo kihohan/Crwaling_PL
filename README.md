@@ -8,4 +8,4 @@
 - ### 4주차: 네이버 api사용방법 / Selenium / Selenium 활용 예제
 - ### 5주차: 인스타그램 크롤러 만들기
 - ### 6주차: 수집한 크롤링 자료에서 인사이트 뽑아내는 방법
-### Sorry, something went wrong. Reload? 문구가 뜨면 다운받아서 주피터 노트로 실행하세요.
+### Sorry, something went wrong. Reload? 문구가 뜨면 우축 상단의 다운로드를 통해 다운받아서 주피터 노트로 실행하세요.
